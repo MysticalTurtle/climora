@@ -1,0 +1,11 @@
+include: package:very_good_analysis/analysis_options.yaml
+analyzer:
+  errors:
+    only_throw_errors: ignore
+    avoid_catches_without_on_clauses: ignore
+    use_setters_to_change_properties: ignore
+  exclude:
+    - lib/l10n/gen/*
+linter:
+  rules:
+    public_member_api_docs: false
