@@ -20,7 +20,7 @@ dependencies:
   flutter_secure_storage: ^9.2.4
   flutter_svg: ^2.2.0
   geolocator: ^13.0.1
-  get_it: ^8.0.3
+  get_it: ^8.2.0
   intl: ^0.20.2
   lottie: ^3.3.1
   number_paginator: ^1.1.1
